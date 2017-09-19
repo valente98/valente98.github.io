@@ -39,10 +39,11 @@ li:last-child {
 }
 
 li a.active {
-    background-color: #4CAF50;
+    background-color: #4caf50;
     color: white;
 }
 
 li a:hover:not(.active) {
     background-color: #555;
     color: white;
+}
