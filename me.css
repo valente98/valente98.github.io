@@ -1,0 +1,14 @@
+body {
+    background-image: url('https://cdn.pixabay.com/photo/2016/11/19/16/48/notebook-1840276_960_720.jpg');
+    background-size: 100%;
+}
+
+h1 {
+    font-family: 'Times New Roman';
+    color: #b40000;
+    font-size: 500%;
+}
+h2 {
+    font-family: 'Times New Roman';
+    color: #b40000;
+    font-size: 200%;
