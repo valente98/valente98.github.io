@@ -14,11 +14,26 @@ h2 {
     font-size: 200%;
 }
 
-li {
+ul.camp {
     font-family: 'Times New Roman';
-    color: gold;
+    color: red;
     font-size: 125%;
+    padding: 10px;
+    width: 600px;
+    border: 9px solid #0088dd;
+    float: right;
+    background-color: black;
 }
+ul.about {
+    font-family: 'Times New Roman';
+    color: red;
+    font-size: 125%;
+    padding: 10px;
+    width: 600px;
+    border: 9px solid #0088dd;
+    background-color: black;
+}
+
 #nav {
     float: right;
 }
