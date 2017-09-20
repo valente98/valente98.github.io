@@ -33,7 +33,26 @@ ul.about {
     border: 9px solid #0088dd;
     background-color: black;
 }
-
+ul.lived {
+    font-family: 'Times New Roman';
+    color: red;
+    font-size: 125%;
+    padding: 10px;
+    width: 600px;
+    border: 9px solid #0088dd;
+    float: left;
+    background-color: black;
+}
+ul.future {
+    font-family: 'Times New Roman';
+    color: red;
+    font-size: 125%;
+    padding: 10px;
+    width: 600px;
+    border: 9px solid #0088dd;
+    float: right;
+    background-color: black;
+}
 #nav {
     float: right;
 }
