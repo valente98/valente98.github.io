@@ -49,3 +49,14 @@ h2 {
     background-color: #555;
     color: white;
 }
+ul.email {
+    font-family: 'Times New Roman';
+    color: red;
+    font-size: 125%;
+    padding: 10px;
+    width: 700px;
+    border: 9px solid #0088dd;
+    margin: 10px auto 10px auto;
+    text-align: left;
+    background-color: black;
+}
