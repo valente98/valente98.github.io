@@ -60,3 +60,13 @@ ul.rental {
     float: right;
     background-color: black;
 }
+
+ul.gas {
+    font-family: 'Times New Roman';
+    color: red;
+    font-size: 125%;
+    padding: 10px;
+    width: 400px;
+    border: 9px solid #0088dd;
+    background-color: black;
+}
