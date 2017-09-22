@@ -1,5 +1,5 @@
 body {
-    background-image: url('https://cdn.pixabay.com/photo/2016/11/19/16/48/notebook-1840276_960_720.jpg');
+    background-image: url('background_portfolio.jpg');
     background-size: 100%;
 }
 
@@ -67,6 +67,17 @@ ul.gas {
     font-size: 125%;
     padding: 10px;
     width: 400px;
+    border: 9px solid #0088dd;
+    background-color: black;
+}
+
+ul.gladiator {
+    font-family: 'Times New Roman';
+    color: red;
+    font-size: 125%;
+    padding: 10px;
+    width: 400px;
+    float: left;
     border: 9px solid #0088dd;
     background-color: black;
 }
