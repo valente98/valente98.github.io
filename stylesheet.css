@@ -1,0 +1,37 @@
+body {
+    background: url('bg.jpg');
+    background-size: cover;
+}
+
+h1 {
+    color: #d40000;
+    text-align: center;
+    width: 100%;
+    font-family: 'Satisfy', cursive;
+    font-weight: bolder;
+    font-size: 5em;
+}
+
+.container {
+    background-color: rgba(232, 254, 232, 0.3);
+    height: 100%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.cursive-font {
+    font-family: 'Satisfy', cursive;
+}
+
+.panel-heading {
+    background-color: #ffd073;
+    font-family: 'Satisfy', cursive;
+    color: #d40000;
+    font-size: 1.7em;
+}
+
+.panel,
+.panel-heading,
+.panel-body {
+    border: 1px solid #ff9f50;
+}
