@@ -20,12 +20,12 @@ h1 {
 }
 
 .cursive-font {
-    font-family: 'Satisfy', cursive;
+    font-family: 'Satisfy', 'cursive';
 }
 
 .panel-heading {
     background-color: #ffd073;
-    font-family: 'Satisfy', cursive;
+    font-family: 'Satisfy', 'cursive';
     color: #d40000;
     font-size: 1.7em;
 }
