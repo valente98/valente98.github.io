@@ -36,20 +36,6 @@ h2 {
     text-align: center;
     border-bottom: 1px solid #555;
 }
-
-#button:last-child {
-    border-bottom: none;
-}
-
-#button a.active {
-    background-color: #4caf50;
-    color: white;
-}
-
-#button a:hover:not(.active) {
-    background-color: #555;
-    color: white;
-}
 ul.email {
     font-family: 'Times New Roman';
     color: red;
