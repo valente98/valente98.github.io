@@ -8,14 +8,17 @@ h1 {
     color: #ff0000;
     font-size: 500%;
 }
+
 h2 {
     font-family: 'Times New Roman';
     color: #ff0000;
     font-size: 200%;
 }
+
 b.base {
     color: gold;
 }
+
 #home {
     list-style-type: none;
     margin: 0;
